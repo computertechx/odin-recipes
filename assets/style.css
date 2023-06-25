@@ -18,3 +18,7 @@ a{
     font-size:20px;
     font-weight:700;
 }
+li a{
+    text-decoration: none;
+}
+
